@@ -48,7 +48,7 @@
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
     "@types/escape-html": "^0.0.20",
-    "@types/fs-extra": "^3.0.0",
+    "@types/fs-extra": "^9.0.12",
     "@types/globby": "^3.0.0",
     "@types/hash-sum": "^1.0.0",
     "@types/lru-cache": "^5.1.0",
